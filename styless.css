@@ -1,0 +1,10 @@
+body {
+    color: white;
+    display: flex;
+}
+
+img {
+    flex-flow: column;
+    width: 25%;
+    height: auto;
+}
